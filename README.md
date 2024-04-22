@@ -90,4 +90,5 @@ What you should learn from this project:
 
 ## Author
 * **Christopher Chilengwe **
- - [GitHub](https://github.com/Christopher-Chilengwe)
+ - [GitHub](https://github.com/christopher-chilengwe)
+
